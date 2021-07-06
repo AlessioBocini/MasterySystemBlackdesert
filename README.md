@@ -1,2 +1,0 @@
-# MasterySystemBlackdesert
-PvP Mastery System
